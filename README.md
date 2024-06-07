@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1086-divisor-game) |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 # Dynamic Programming
 |  |
 | ------- |
@@ -18,3 +19,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1086-divisor-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1086-divisor-game) |
+# Array
+|  |
+| ------- |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+# Sorting
+|  |
+| ------- |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+# Matrix
+|  |
+| ------- |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+# Prefix Sum
+|  |
+| ------- |
+| [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
