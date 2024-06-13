@@ -39,3 +39,19 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+# Depth-First Search
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Breadth-First Search
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Union Find
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Graph
+|  |
+| ------- |
+| [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
