@@ -5,11 +5,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 # Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1086-divisor-game) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 # Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0070-climbing-stairs) |
 | [1086-divisor-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1086-divisor-game) |
 # Brainteaser
 |  |
@@ -55,3 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2403-count-unreachable-pairs-of-nodes-in-an-undirected-graph) |
+# Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0070-climbing-stairs) |
