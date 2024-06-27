@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0198-house-robber) |
 | [1086-divisor-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1086-divisor-game) |
 # Brainteaser
@@ -27,6 +28,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0063-unique-paths-ii) |
+| [0120-triangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0198-house-robber) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
 # Sorting
