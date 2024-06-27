@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0967-minimum-falling-path-sum) |
 | [1086-divisor-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1086-divisor-game) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Brainteaser
 |  |
 | ------- |
@@ -35,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0416-partition-equal-subset-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0416-partition-equal-subset-sum) |
 | [0967-minimum-falling-path-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0967-minimum-falling-path-sum) |
 | [1990-get-biggest-three-rhombus-sums-in-a-grid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1990-get-biggest-three-rhombus-sums-in-a-grid) |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
 # Sorting
 |  |
 | ------- |
@@ -73,3 +75,23 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0070-climbing-stairs) |
+# Two Pointers
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+# Binary Search
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+# Bit Manipulation
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+# Ordered Set
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
+# Bitmask
+|  |
+| ------- |
+| [2162-partition-array-into-two-arrays-to-minimize-sum-difference](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2162-partition-array-into-two-arrays-to-minimize-sum-difference) |
