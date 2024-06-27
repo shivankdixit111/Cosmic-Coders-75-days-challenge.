@@ -26,9 +26,9 @@ public:
           int ans = min ( abs(sum-2*left[N][0]), abs(sum-2*right[N][0]) ) ;
 
           for(int idx=1;idx<N;idx++) {
-             for(auto &a:left[idx]) {
+             for(auto a:left[idx]) {
                  int b=(sum-2*a)/2;
-                 auto &b_array=right[N-idx];
+                 vector<int> &b_array=right[N-idx];
                  auto it=lower_bound(b_array.begin(),b_array.end(),b);
                  if(it!=b_array.end()) {
                      ans=min(ans,abs(sum-2*(a+*(it))));
