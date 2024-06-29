@@ -23,22 +23,25 @@ public:
  
 
         vector<vector<int>> dp(n+1,vector<int>(amount+1,1e9));
+        vector<int> prev(amount+1,1e9);
       
         for(int j=0;j<=amount;j++) {
-            if( j % coins[0] == 0) dp[0][j] = j / coins[0] ;
+            if( j % coins[0] == 0) prev[j] = j / coins[0] ;
         }
 
         for(int i=1;i<n;i++) {
+            vector<int> curr(amount+1,1e9);
             for(int j=0;j<=amount;j++) {
-                    int nottake = dp[i-1][j];
+                    int nottake = prev[j];
                     int take=1e9;
                     if(coins[i]<=j) {
-                        take = 1 + dp[i][j-coins[i]];
+                        take = 1 + curr[j-coins[i]];
                     }
-                dp[i][j]=min(take,nottake);
+                curr[j]=min(take,nottake);
             }
+            prev=curr;
         }
 
-        return dp[n-1][amount]==1e9?-1:dp[n-1][amount];
+        return prev[amount]==1e9?-1:prev[amount];
     } 
 };
