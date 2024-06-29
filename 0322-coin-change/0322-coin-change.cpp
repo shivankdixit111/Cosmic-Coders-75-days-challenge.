@@ -1,19 +1,5 @@
 class Solution {
-public:
-    // int rec(int amount, vector<int>& coins, vector<int> &dp) {
-    //     int n=coins.size();
-    //     if(dp[amount]!=1e9)  return dp[amount];
-
-    //     if(amount<=0) return 0;
-
-    //     int ans=1e7;
-    //     for(int i=0;i<n;i++) {
-    //         if(amount>=coins[i]) {
-    //             ans=min(ans,rec(amount-coins[i],coins,dp)+1);
-    //         }
-    //     }
-    //     return dp[amount]=ans;
-    // }
+public: 
 
     int rec(int idx,int amount,vector<int> &coins, vector<vector<int>> &dp) {
          
@@ -34,25 +20,25 @@ public:
     }
     int coinChange(vector<int>& coins, int amount) {
         int n=coins.size();
+ 
 
-        // vector<int> dp(100004,1e9);
-        // dp[0]=0;
+        vector<vector<int>> dp(n+1,vector<int>(amount+1,1e9));
+      
+        for(int j=0;j<=amount;j++) {
+            if( j % coins[0] == 0) dp[0][j] = j / coins[0] ;
+        }
 
-        // for(int i=0;i<n;i++) {
-        //     for(int j=0;j<=amount;j++) {
-        //          if(j>=coins[i]) {
-        //             dp[j]=min(dp[j],dp[j-coins[i]]+1);
-        //          }
-        //     }
-        // } 
+        for(int i=1;i<n;i++) {
+            for(int j=0;j<=amount;j++) {
+                    int nottake = dp[i-1][j];
+                    int take=1e9;
+                    if(coins[i]<=j) {
+                        take = 1 + dp[i][j-coins[i]];
+                    }
+                dp[i][j]=min(take,nottake);
+            }
+        }
 
-        // return dp[amount]==1e9?-1:dp[amount];  
-        // int ans= rec(amount,coins,dp);
-        // return ans==1e7?-1:ans;
-
-        vector<vector<int>> dp(n+1,vector<int>(amount+1,-1));
-
-        int ans=rec(n-1,amount,coins,dp);
-        return ans==1e7?-1:ans;
+        return dp[n-1][amount]==1e9?-1:dp[n-1][amount];
     } 
 };
