@@ -11,13 +11,9 @@ public:
             }
         }
         int cnt=0;
-        for(int i=0;i<n;i++) {
-            for(int j=0;j<m;j++) {
-                if(matrix[i][j]==1) cnt++;
-            }
-        }
+      
  
-        for(int sz=2;sz<=min(n,m);sz++) {
+        for(int sz=1;sz<=min(n,m);sz++) {
             for(int i=1;i<=n;i++) {
                 for(int j=1;j<=m;j++) {
                    int x2=i+sz-1,y2=j+sz-1;
