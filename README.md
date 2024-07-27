@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 | [1121-partition-array-for-maximum-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
@@ -155,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 ## Backtracking
 |  |
 | ------- |
@@ -216,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
+| [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 ## Monotonic Stack
 |  |
@@ -226,10 +229,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
+| [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
+| [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
