@@ -111,6 +111,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
+| [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
@@ -194,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 |  |
 | ------- |
+| [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 ## Two Pointers
 |  |
@@ -224,4 +226,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
+## Prefix Sum
+|  |
+| ------- |
+| [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 <!---LeetCode Topics End-->
