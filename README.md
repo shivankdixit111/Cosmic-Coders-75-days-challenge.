@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 ## Backtracking
@@ -232,14 +233,20 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
+| [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
+| [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
+## Graph
+|  |
+| ------- |
+| [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 <!---LeetCode Topics End-->
