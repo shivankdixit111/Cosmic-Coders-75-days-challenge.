@@ -6,7 +6,6 @@ public:
             adj[it[0]].push_back({it[1],it[2]});
             adj[it[1]].push_back({it[0],it[2]});
         }
-
         priority_queue<pair<long long,long long>,vector<pair<long long,long long>>,greater<pair<long long,long long>>> pq;
         vector<long long> distance(n+1,1e18);
         map<long long,long long> mp;
@@ -19,10 +18,8 @@ public:
             long long node=pq.top().second;
             long long dist=pq.top().first;
             pq.pop();
-            
             // if(distance[node]<dist) continue;
             if(node==n-1) continue;
- 
             for(auto it:adj[node]) {
                 int v=it.first;
                 int wt=it.second;
@@ -35,9 +32,7 @@ public:
                 }
             }
         }
-        
-
-        return mp[n-1]==0?1:mp[n-1];
+        return mp[n-1];
         
     }
 };
