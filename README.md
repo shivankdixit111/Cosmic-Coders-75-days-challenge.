@@ -151,6 +151,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -274,12 +275,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Topological Sort
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -291,4 +294,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
