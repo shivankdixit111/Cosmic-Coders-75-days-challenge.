@@ -122,6 +122,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Backtracking
 |  |
 | ------- |
@@ -195,6 +197,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Math
 |  |
 | ------- |
@@ -230,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -244,12 +248,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Union Find
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -267,4 +273,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 <!---LeetCode Topics End-->
