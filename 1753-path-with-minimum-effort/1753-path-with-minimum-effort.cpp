@@ -14,6 +14,7 @@ public:
         int dx[] = {-1,1,0,0};
         int dy[] = {0,0,-1,1};
         vector<vector<int>> dist(n,vector<int>(m+1,1e9));
+        dist[0][0]=0;
         int ans=INT_MAX;
 
         while(pq.size()) {
@@ -23,7 +24,8 @@ public:
             pq.pop();
         
             if(x==n-1 and y==m-1) {
-                return diff;
+                // return diff;
+                continue;
             }
             for(int i=0;i<4;i++) {
                     int x1 = x+dx[i];
@@ -40,6 +42,6 @@ public:
                     }
              }
         }
-        return ans;
+        return dist[n-1][m-1];
     }
 };
