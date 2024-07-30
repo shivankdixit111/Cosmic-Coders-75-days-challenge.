@@ -1,8 +1,8 @@
 class Solution {
-public:
-   static bool cmp(vector<string> &a,vector<string> &b) {
-          return a[0][0]<b[0][0];
-   }  
+public: 
+    static bool cmp(vector<string> &a,vector<string> &b) {
+        return a[0][0]<b[0][0];
+    }
     vector<int> rank,parent,size; 
     void DisjointSet(int n) {
        rank.resize(n+1,0);
@@ -39,8 +39,7 @@ public:
         vector<vector<string>> ans;
         int n=accounts.size();
         DisjointSet(n+1);
-        for(int i=0;i<n;i++) {
-            st.insert(i);
+        for(int i=0;i<n;i++) { 
             for(int j=1;j<accounts[i].size();j++) {
                 string mail=accounts[i][j];
                 if(mp.find(mail)==mp.end()) {
@@ -50,35 +49,22 @@ public:
                 }
             }
         }
-        mp.clear();
         map<int,vector<string>> mp1;
-        for(auto it:st) {
-            int ulp=findUlp(it);
-            if(ulp==it) { 
-                 for(int i=1;i<accounts[it].size();i++) {
-                   if(mp[accounts[it][i]]==0)
-                    mp1[ulp].push_back(accounts[it][i]);
-                    mp[accounts[it][i]]++;
-                 }
-            } else {
-                for(int j=1;j<accounts[it].size();j++) {
-                    if(mp[accounts[it][j]]==0)
-                    mp1[ulp].push_back(accounts[it][j]);
-                    mp[accounts[it][j]]++;
-                }
-            }
+        
+        for(auto it:mp) {
+            int ulp=findUlp(it.second);
+            string mail=it.first;
+            mp1[ulp].push_back(mail);  //storing all the mails
         }
+
         for(int i=0;i<n;i++) {
-            if(mp1[i].size()) {
+            if(mp1[i].size()) { 
                 vector<string> temp=mp1[i];
+                temp.push_back(accounts[i][0]); //pushing the name
                 reverse(temp.begin(),temp.end());
-                temp.push_back(accounts[i][0]);
-                reverse(temp.begin(),temp.end());
+                sort(temp.begin()+1,temp.end());
                 ans.push_back(temp);
             }
-        }
-        for(int i=0;i<ans.size();i++) {
-            sort(ans[i].begin()+1,ans[i].end());
         }
         sort(ans.begin(),ans.end(),cmp);
         return ans;
