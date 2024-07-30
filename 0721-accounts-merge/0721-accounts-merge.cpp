@@ -65,8 +65,7 @@ public:
                 sort(temp.begin()+1,temp.end());
                 ans.push_back(temp);
             }
-        }
-        sort(ans.begin(),ans.end(),cmp);
+        } 
         return ans;
     }
 };
