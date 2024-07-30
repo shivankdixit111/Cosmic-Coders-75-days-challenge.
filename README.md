@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
@@ -162,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
@@ -185,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1250-longest-common-subsequence) |
@@ -212,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 ## Hash Table
@@ -219,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 ## Two Pointers
@@ -251,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0207-course-schedule](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
@@ -264,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
+| [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
