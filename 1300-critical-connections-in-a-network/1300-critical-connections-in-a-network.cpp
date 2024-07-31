@@ -3,16 +3,12 @@ public:
     void dfs(int node, int parent, vector<int> &low, vector<int> &disc, vector<int> &vis,int &timer
     ,vector<int> adj[], vector<vector<int>> &ans) { 
         vis[node]=1;
-        low[node]=timer;
-        disc[node]=timer;
-        timer++; 
-        
+        low[node]=disc[node]=timer++;
         for(auto it:adj[node]) {
              if(parent==it) continue;  //we reached to end of node
             if(!vis[it]) { 
                dfs(it,node,low,disc,vis,timer,adj,ans);
-               low[node] = min(low[node],low[it]);
-               cout<<node<<" "<<it<<" "<<low[it]<<" "<<disc[node]<<endl;
+               low[node] = min(low[node],low[it]); 
                if(low[it] > disc[node]) { //will always be greater if low[node] not updated by backedge and thus wiill form a bridge
                   ans.push_back({node,it});
                }
