@@ -116,6 +116,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
@@ -167,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
@@ -208,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Math
 |  |
@@ -243,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
@@ -262,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
@@ -275,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -309,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
+| [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Shortest Path
