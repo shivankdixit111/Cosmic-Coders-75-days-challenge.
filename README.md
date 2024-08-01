@@ -192,6 +192,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1250-longest-common-subsequence) |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
@@ -239,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Matrix
 |  |
 | ------- |
