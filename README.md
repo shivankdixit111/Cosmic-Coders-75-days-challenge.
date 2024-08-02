@@ -190,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
+| [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
@@ -335,4 +336,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [1300-critical-connections-in-a-network](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1300-critical-connections-in-a-network) |
+## Rolling Hash
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
+## String Matching
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
+## Hash Function
+|  |
+| ------- |
+| [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
 <!---LeetCode Topics End-->
