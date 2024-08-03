@@ -201,6 +201,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1250-longest-common-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1250-longest-common-subsequence) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1508-longest-happy-prefix) |
+| [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 ## Greedy
 |  |
 | ------- |
@@ -208,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -222,6 +224,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
+| [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
