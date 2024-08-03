@@ -195,6 +195,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
+| [0812-rotate-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1078-remove-outermost-parentheses) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
@@ -353,6 +354,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0812-rotate-string) |
 | [1508-longest-happy-prefix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1508-longest-happy-prefix) |
 ## Hash Function
 |  |
