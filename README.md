@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
 | [0205-isomorphic-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0242-valid-anagram) |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -364,4 +366,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1508-longest-happy-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+## Trie
+|  |
+| ------- |
+| [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 <!---LeetCode Topics End-->
