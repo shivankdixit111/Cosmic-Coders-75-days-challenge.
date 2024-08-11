@@ -15,11 +15,8 @@ public:
           return sizes[node]+=ans+1;
     }
      int cnt=0;
-     void dfs1(int node, vector<vector<int>> &edges, vector<int> &vis) {
-        //  cout<<"vis--"<<node<<endl;
-         vis[node]=1;
-        //  cout<<node<<endl;
-        //   int ans=0;
+     void dfs1(int node, vector<vector<int>> &edges, vector<int> &vis) { 
+         vis[node]=1; 
          map<int,int> mp1;
 
          for(auto it:edges[node]) {  
