@@ -285,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0094-binary-tree-inorder-traversal) |
+| [0110-balanced-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0110-balanced-binary-tree) |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0145-binary-tree-postorder-traversal) |
@@ -389,6 +390,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0145-binary-tree-postorder-traversal) |
 ## Binary Tree
@@ -396,6 +398,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0094-binary-tree-inorder-traversal) |
 | [0102-binary-tree-level-order-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0102-binary-tree-level-order-traversal) |
+| [0110-balanced-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
