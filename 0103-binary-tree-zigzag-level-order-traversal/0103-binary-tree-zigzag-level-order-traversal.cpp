@@ -12,34 +12,47 @@
 class Solution {
 public:
     vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-        map<int,vector<int>> mp;
+        
         if(root==NULL) return {};
         int cnt=0;
-        queue<pair<TreeNode*,int>> q;
-        q.push({root,0});
+        queue<TreeNode*> q;
+        q.push(root);
+
+        vector<vector<int>> ans;
+
+        bool leftToright= true;
 
         while(q.size()) {
-            TreeNode* node = q.front().first;
-            int cnt = q.front().second;
-            q.pop();
+          
+            int size = q.size();
 
-            mp[cnt].push_back(node->val);
+            vector<int> row(size); 
+            
+            for(int i=0;i<size;i++) {
+                TreeNode* node = q.front();
+                q.pop();
 
-            if(node->left) {
-                q.push({node->left,cnt+1});
-            }
-            if(node->right) {
-                q.push({node->right,cnt+1});
-            }
+                int idx = leftToright ? i : size-i-1;
+
+                row[idx] = node->val;
+
+                if(node->left) {
+                    q.push(node->left);
+                    // cout<<node->left->val<<" ";
+                }
+                if(node->right) {
+                    q.push(node->right);
+                    // cout<<node->right->val<<" ";
+                } 
+
+            } 
+
+            leftToright = !(leftToright);
+            ans.push_back(row);
+           
         }
-        vector<vector<int>> ans;
-        for(int i=0;;i++) {
-            if(mp[i].empty()) break;
-            if(i%2) {
-                reverse(mp[i].begin(),mp[i].end());
-            }
-            ans.push_back(mp[i]);
-        }
+      
+       
         return ans;
     }
 };
