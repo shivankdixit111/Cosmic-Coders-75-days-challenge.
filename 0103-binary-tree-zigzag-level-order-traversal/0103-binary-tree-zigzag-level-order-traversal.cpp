@@ -25,17 +25,17 @@ public:
 
             mp[cnt].push_back(node->val);
 
-            if(node->right) {
-                q.push({node->right,cnt+1});
-            }
             if(node->left) {
                 q.push({node->left,cnt+1});
+            }
+            if(node->right) {
+                q.push({node->right,cnt+1});
             }
         }
         vector<vector<int>> ans;
         for(int i=0;;i++) {
             if(mp[i].empty()) break;
-            if(i%2==0) {
+            if(i%2) {
                 reverse(mp[i].begin(),mp[i].end());
             }
             ans.push_back(mp[i]);
