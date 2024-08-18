@@ -173,6 +173,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
@@ -302,6 +303,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
@@ -411,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -426,4 +429,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0543-diameter-of-binary-tree) |
+| [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
 <!---LeetCode Topics End-->
