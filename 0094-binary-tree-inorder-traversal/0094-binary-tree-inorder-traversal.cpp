@@ -12,29 +12,31 @@
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
-        stack<TreeNode*> st;
-        if(root==NULL) return {};
-        st.push(root);
-        vector<int> inorder;
-
-        while(true) {
-            if(root->left) {
-                st.push(root->left);
-                root=root->left;
+         vector<int> inorder;
+         // MORRIS inorder  O(1) space complexity
+         while(root!=NULL) {
+            if(root->left==NULL) {
+                 inorder.push_back(root->val);
+                 root = root->right;
             } else {
-                if(st.empty()) break;
-
-                TreeNode* node=st.top();
-                inorder.push_back(node->val);
-                st.pop();
-
-                if(node->right) {
-                    root = node->right;   // L N R
-                    st.push(root);
+                TreeNode* prev = root->left; 
+                // make a thread by going(prev copy goes) to left of root till the rightmost 
+                // node of left of root node
+                // and delete the thread while returning from it
+                while(prev->right and prev->right!=root) {
+                    prev = prev->right;
                 }
-
+                if(prev->right==NULL) {
+                    prev->right = root; // thread connected
+                    root = root->left; //explore further left portion
+                } else {
+                    prev->right = NULL; // delete the thread as everything is explored to that node 
+                    // now explore the right portion
+                    inorder.push_back(root->val);
+                    root= root->right;
+                }
             }
-        }
-        return inorder;
+         }
+         return inorder;
     }
 };
