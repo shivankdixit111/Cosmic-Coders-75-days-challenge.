@@ -27,7 +27,7 @@ public:
          TreeNode* upperbound = new TreeNode(INT_MAX);
          TreeNode* lowerbound = new TreeNode(INT_MIN);
 
-        for(int i=0;i<50;i++)
+        for(int i=0;i<10;i++)
          fun(root,lowerbound,upperbound);
           
     }
