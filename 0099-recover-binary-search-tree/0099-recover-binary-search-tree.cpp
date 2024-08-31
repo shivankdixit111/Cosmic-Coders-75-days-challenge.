@@ -11,24 +11,31 @@
  */
 class Solution {
 public:
-    void fun(TreeNode* root, TreeNode* lowerbound, TreeNode* upperbound) {
-         if(!root) return;
-         
-         if(root->val < lowerbound->val) {
-             swap(root->val , lowerbound->val); 
-         }
-         if(root->val > upperbound->val) {
-             swap(root->val, upperbound->val); 
-         }
-         fun(root->left , lowerbound, root); // root works as a upperbound for left
-         fun(root->right, root, upperbound); // root works as a lowerbound for right
+    TreeNode* firstElement = NULL;
+    TreeNode* secondElement = NULL;
+    TreeNode* prevNode = new TreeNode(INT_MIN);
+    
+    void traverse( TreeNode* root) {
+        if(!root) return;
+
+        traverse(root->left); 
+ 
+        if(firstElement==NULL and root->val < prevNode->val) { // cause BST is always in sorted order so prev can never be greater
+            firstElement = prevNode;
+        }
+        if(firstElement!=NULL and root->val < prevNode->val) {
+            secondElement = root;
+        }
+        
+        prevNode = root;
+
+        traverse(root->right);
     }
     void recoverTree(TreeNode* root) {
-         TreeNode* upperbound = new TreeNode(INT_MAX);
-         TreeNode* lowerbound = new TreeNode(INT_MIN);
+         traverse(root); 
+         cout<< firstElement->val <<" "<< secondElement->val <<endl;
 
-        for(int i=0;i<10;i++)
-         fun(root,lowerbound,upperbound);
-          
+         swap(firstElement->val,secondElement->val); 
+         
     }
 };
