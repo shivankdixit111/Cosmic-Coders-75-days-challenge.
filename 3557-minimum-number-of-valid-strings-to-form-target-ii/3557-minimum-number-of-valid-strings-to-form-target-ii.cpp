@@ -4,31 +4,24 @@
     // Longest suffix that matches with prefix
     // lps array is used in kmp
 
-    int n = s.length();
-
-    vector<int> prefix(n, 0);
-    int i = 0, j = 1;
-
-    while (j < n)
-    {
-        if (s[i] == s[j])
-        {
+    int n = s.length(); 
+    
+    vector<int> prefix(n,0);
+    int i=0,j=1;
+    while(j<n) {
+        if(s[i]==s[j]) {
             i++;
             prefix[j] = i;
             j++;
-        }
-        else
-        {
-            if (i != 0)
-            {
-                i = prefix[i - 1];
-            }
-            else
-            {
-                j++;
+        } else {
+            if(i!=0) {
+               i = prefix[i-1];
+            } else {
+               j++;
             }
         }
     }
+    
     return prefix;
 }
 
