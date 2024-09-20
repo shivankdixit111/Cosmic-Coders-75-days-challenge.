@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -163,6 +164,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -490,6 +492,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 ## Linked List
 |  |
 | ------- |
@@ -515,4 +518,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0173-binary-search-tree-iterator) |
+## Segment Tree
+|  |
+| ------- |
+| [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 <!---LeetCode Topics End-->
