@@ -21,22 +21,22 @@ void pointupdate(int low, int high, int index, int pos, int value)
     Segtree[index] = max(Segtree[2 * index + 1] , Segtree[2 * index + 2]);
 }
 
-int rangeMax(int low, int high, int index, int l, int r)
+int query(int low, int high, int index, int l, int r)
 { // time complexity--> O(log n)
     // complete overlap       l........low.........high........r
-    if (low == l and high == r)
+    if (low >= l and high <= r)
         return Segtree[index];
 
     // disjoint
-    if (l > r)
-        return INT_MIN;
+    if (l > high or r < low)
+        return 0;
 
     int mid = (low + high) >> 1;
-    int leftanswer = rangeMax(low, mid, 2 * index + 1, l, min(mid,r));
-    int rightanswer = rangeMax(mid + 1, high, 2 * index + 2, max(l,mid+1), r);
+    int leftanswer = query(low, mid, 2 * index + 1, l, r);
+    int rightanswer = query(mid + 1, high, 2 * index + 2, l, r);
 
     //   cout<<index<<" "<<leftanswer<<" "<<rightanswer<<endl;
-    return max(leftanswer , rightanswer)  ; 
+    return max(leftanswer , rightanswer);
 }
     vector<bool> getResults(vector<vector<int>>& queries) {
         vector<bool> temp;
@@ -70,7 +70,7 @@ int rangeMax(int low, int high, int index, int l, int r)
                it1--;
 
                int l = *it1;
-               int ans = max(rangeMax(0,n-1,0,0,l-1), x-l);
+               int ans = max(query(0,n-1,0,0,l-1), x-l);
  
                temp.push_back(ans>=sz);
             } 
