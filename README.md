@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
+| [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 ## Math
 |  |
 | ------- |
@@ -522,4 +524,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
+| [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 <!---LeetCode Topics End-->
