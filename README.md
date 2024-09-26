@@ -135,6 +135,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
+| [3460-count-the-number-of-inversions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3460-count-the-number-of-inversions) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -169,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3460-count-the-number-of-inversions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3460-count-the-number-of-inversions) |
 ## Breadth-First Search
 |  |
 | ------- |
