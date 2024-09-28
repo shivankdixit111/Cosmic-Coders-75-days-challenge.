@@ -24,27 +24,33 @@
 #define SUM(X) accumulate(X.begin(), X.end(), 0LL)
 #define rev(a) reverse(a.begin(), a.end());
 
-vector<int> computeZ(const string& s) {
-        int n = s.size();
-        vector<int> Z(n, 0);
-        int L = 0, R = 0;
-        for (int i = 1; i < n; i++) {
-            if (i <= R) {
-                Z[i] = min(R - i + 1, Z[i - L]);
-            }
-            while (i + Z[i] < n && s[Z[i]] == s[i + Z[i]]) {
-                Z[i]++;
-            }
-            if (i + Z[i] - 1 > R) {
-                L = i;
-                R = i + Z[i] - 1;
-            }
+vector<int> z_function(string s)
+{
+    int n = s.size();
+    vector<int> z(n);
+    int l = 0, r = 0;
+    for (int i = 1; i < n; i++)
+    {
+        if (i < r)
+        {
+            z[i] = min(r - i, z[i - l]);
         }
-        return Z;
+        // finding count of length with trivial algorithm
+        while (i + z[i] < n && s[z[i]] == s[i + z[i]])
+        {
+            z[i]++;
+        }
+        if (i + z[i] > r)
+        {
+            l = i;
+            r = i + z[i];
+        }
     }
+    return z;
+}
 vector<int> longestCommonPrefix(string &a, string &b) {
     string combined = a + "#" + b;
-    vector<int> lps = computeZ(combined);
+    vector<int> lps = z_function(combined);
     return lps;
 }
 
