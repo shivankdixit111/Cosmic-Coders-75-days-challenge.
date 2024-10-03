@@ -9,14 +9,22 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        unordered_map<ListNode*,int> mp;
-        ListNode* temp = head;
-        while(temp!=NULL) {
-            if(mp[temp]) {
-                return temp;
-            }
-            mp[temp]++;
-            temp = temp->next;
+         ListNode* hare = head, *tortoise = head;
+
+        while(hare and hare->next and hare->next->next) {
+            hare = hare->next->next;
+            tortoise = tortoise->next;
+            
+             if(hare==tortoise)  {
+                 // reset slow to head again their again collision point will be starting node
+                 // for proof  watch striver lecture
+                 tortoise = head;
+                 while( tortoise != hare ) {
+                    tortoise = tortoise->next;
+                    hare = hare->next;
+                 }
+                 return tortoise;
+             }
         }
         return NULL;
     }
