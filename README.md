@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 | [3460-count-the-number-of-inversions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3460-count-the-number-of-inversions) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -173,6 +174,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3460-count-the-number-of-inversions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3460-count-the-number-of-inversions) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -260,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -379,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Graph
 |  |
 | ------- |
@@ -565,6 +569,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
+| [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 ## Bitmask
 |  |
 | ------- |
