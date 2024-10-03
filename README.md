@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3460-count-the-number-of-inversions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3460-count-the-number-of-inversions) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -206,6 +207,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1442-number-of-operations-to-make-network-connected](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [3439-find-minimum-diameter-after-merging-two-trees](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3439-find-minimum-diameter-after-merging-two-trees) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Backtracking
 |  |
 | ------- |
@@ -263,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Sorting
 |  |
 | ------- |
@@ -447,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Trie
 |  |
 | ------- |
@@ -574,4 +578,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+## Game Theory
+|  |
+| ------- |
+| [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 <!---LeetCode Topics End-->
