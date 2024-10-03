@@ -241,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
+| [0206-reverse-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0206-reverse-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -512,6 +513,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0206-reverse-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0908-middle-of-the-linked-list) |
 ## Binary Search Tree
