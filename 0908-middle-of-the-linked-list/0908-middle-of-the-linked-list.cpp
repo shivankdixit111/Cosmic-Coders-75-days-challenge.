@@ -11,21 +11,16 @@
 class Solution {
 public:
     ListNode* middleNode(ListNode* head) {
-        int cnt=0;
-        ListNode* temp = head;
-        while(temp!=NULL) {
-            temp = temp->next;
-            cnt++;
-        }
-        int i=0;
-        temp = head;
-        while(temp!=NULL) {
-           if(i==cnt/2) {
-              return temp;
-           }
-           temp = temp->next;
-           i++;
-        }
-        return temp;
+         //optimized version tortoise and hare algorithm
+         ListNode* hare = head, *tortoise = head;
+         
+         while(hare->next and hare->next->next!=NULL) {
+               hare = hare->next->next;
+            
+             tortoise = tortoise->next;
+         }
+         // in even number of nodes hare will not reach at the last node of ll
+         if(hare->next) tortoise = tortoise->next;
+         return tortoise;
     }
 };
