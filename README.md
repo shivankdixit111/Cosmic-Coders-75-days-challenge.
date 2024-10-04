@@ -302,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0908-middle-of-the-linked-list) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Stack
 |  |
 | ------- |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0237-delete-node-in-a-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
