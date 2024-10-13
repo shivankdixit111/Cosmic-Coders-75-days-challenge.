@@ -142,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3571-length-of-the-longest-increasing-path) |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -266,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3571-length-of-the-longest-increasing-path) |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Math
 |  |
 | ------- |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Sorting
 |  |
 | ------- |
@@ -303,6 +306,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Two Pointers
 |  |
 | ------- |
@@ -402,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Graph
 |  |
 | ------- |
@@ -594,6 +599,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Bitmask
 |  |
 | ------- |
@@ -603,4 +609,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
+## Counting
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
