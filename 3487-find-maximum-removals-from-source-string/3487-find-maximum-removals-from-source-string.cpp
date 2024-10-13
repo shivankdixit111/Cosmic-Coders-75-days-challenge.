@@ -56,8 +56,19 @@ public:
         for(auto it:targetIndices) mp[it]++;
 
         dp.resize(n+1,vi(m+1,-1));
+        // dp[0][0]=0;
 
         return rec(0,0,source,pattern);
+
+        // for(int i=1;i<=n;i++) {
+        //     for(int j=1;j<=m;j++) {
+        //         dp[i][j] =  dp[i-1][j];
+        //         if(mp.count(i-1)) dp[i][j] = max(dp[i][j],1 + dp[i-1][j]);
+        //         if(source[i-1]==pattern[j-1]) dp[i][j] = max(dp[i][j],dp[i-1][j-1]);
+        //     }
+        // }
+
+        // return dp[n][m];
          
     }
 };
