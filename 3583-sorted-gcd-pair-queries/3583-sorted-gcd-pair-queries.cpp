@@ -55,16 +55,18 @@ public:
         }
         
        for(auto it:queries) {
-            int low=0,high=N*(N-1)/2,ans=-1;
-            while(low<=high) {
-                int mid = (low+high)>>1;
+            // int low=0,high=N*(N-1)/2,ans=-1;
+            // while(low<=high) {
+            //     int mid = (low+high)>>1;
 
-                if(psum[mid]>it) {
-                    ans = mid;
-                    high = mid-1;
-                } else low = mid+1;
-            }
-            temp.push_back(ans);
+            //     if(psum[mid]>it) {
+            //         ans = mid;
+            //         high = mid-1;
+            //     } else low = mid+1;
+            // }
+            // temp.push_back(ans);
+            auto i1 = upper_bound(all(psum),it)-psum.begin();
+            temp.pb(i1);  
        }
 
        return temp;
