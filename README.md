@@ -181,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3460-count-the-number-of-inversions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3460-count-the-number-of-inversions) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -278,6 +279,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Sorting
 |  |
 | ------- |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
+| [3604-find-the-number-of-possible-ways-for-an-event](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3604-find-the-number-of-possible-ways-for-an-event) |
 ## Bitmask
 |  |
 | ------- |
