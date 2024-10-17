@@ -5,6 +5,7 @@ public:
         if(j>=t.length()) {
             return i==s.length();
         }
+        if(dp[i][j]!=-1) return dp[i][j];
         bool check = false;
         if(i<s.length() and s[i]==t[j] or (t[j]=='.')) check = true;
 
@@ -13,10 +14,10 @@ public:
             int take = false; 
             if(i<s.length()) take = check and rec(i+1,j,s,t);
 
-            return take | nottake;
+            return dp[i][j] = take | nottake;
         }
 
-        return check and rec(i+1,j+1,s,t);
+        return dp[i][j] = check and rec(i+1,j+1,s,t);
     }
      
     bool isMatch(string s, string p) {
