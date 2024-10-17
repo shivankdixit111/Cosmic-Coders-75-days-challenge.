@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
@@ -221,6 +222,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0010-regular-expression-matching) |
 | [0038-count-and-say](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
@@ -254,6 +256,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0010-regular-expression-matching) |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
 | [0206-reverse-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0234-palindrome-linked-list) |
