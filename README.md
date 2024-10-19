@@ -102,6 +102,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0032-longest-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -253,6 +255,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0179-largest-number) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
