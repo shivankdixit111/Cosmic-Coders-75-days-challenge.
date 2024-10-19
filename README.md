@@ -154,6 +154,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0045-jump-game-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
+| [0091-decode-ways](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -231,6 +232,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0032-longest-valid-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0032-longest-valid-parentheses) |
 | [0038-count-and-say](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0038-count-and-say) |
 | [0044-wildcard-matching](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0044-wildcard-matching) |
+| [0091-decode-ways](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
