@@ -162,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -228,6 +229,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0095-unique-binary-search-trees-ii) |
+| [0131-palindrome-partitioning](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0131-palindrome-partitioning) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 ## String
 |  |
@@ -240,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0097-interleaving-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
 | [0179-largest-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0205-isomorphic-strings) |
