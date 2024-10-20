@@ -109,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
+| [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0179-largest-number) |
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -164,6 +165,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0124-binary-tree-maximum-path-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
@@ -244,6 +246,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0179-largest-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0179-largest-number) |
 | [0205-isomorphic-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0205-isomorphic-strings) |
 | [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
@@ -319,6 +322,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0127-word-ladder](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0142-linked-list-cycle-ii) |
 | [0205-isomorphic-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0205-isomorphic-strings) |
@@ -500,6 +504,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Tree
@@ -623,6 +628,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 |  |
 | ------- |
+| [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
