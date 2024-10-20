@@ -9,7 +9,9 @@ public:
         
         for(int i=2;i<=n;i++) {
             for(int j=1;j<=i;j++) {
-                dp[i] += dp[j-1] * dp[i-j];
+                dp[i] += dp[j-1] * dp[i-j]; 
+                // if left subtree has j-1 nodes  right will have (i-(j-1)-1) => (i-j)
+                // total bst count will be = left * right
             }
         }
         return dp[n];
