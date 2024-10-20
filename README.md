@@ -155,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0055-jump-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0091-decode-ways) |
+| [0096-unique-binary-search-trees](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0096-unique-binary-search-trees) |
 | [0115-distinct-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0115-distinct-subsequences) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
@@ -285,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0096-unique-binary-search-trees) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -497,6 +499,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0100-same-tree) |
@@ -529,6 +532,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0094-binary-tree-inorder-traversal) |
+| [0096-unique-binary-search-trees](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0100-same-tree) |
@@ -578,6 +582,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 |  |
 | ------- |
+| [0096-unique-binary-search-trees](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0099-recover-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0173-binary-search-tree-iterator) |
