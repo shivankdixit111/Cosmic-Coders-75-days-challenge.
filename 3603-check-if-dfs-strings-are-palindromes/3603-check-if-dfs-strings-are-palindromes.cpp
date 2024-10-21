@@ -65,9 +65,7 @@ struct PolyHash{
         int64_t h = suff[l +1] - modmul(base_pow[r - l + 1], suff[r+2]);
         return h < 0 ? h + mod : h;
     }
-};
-bool generated = false;
-#define i64 uint64_t
+}; 
 
 
 class Solution {
