@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
@@ -213,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
@@ -375,6 +378,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0085-maximal-rectangle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0130-surrounded-regions) |
 | [0174-dungeon-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0174-dungeon-game) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
@@ -409,6 +413,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0230-kth-smallest-element-in-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
@@ -451,6 +456,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0744-network-delay-time](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0744-network-delay-time) |
 | [0801-is-graph-bipartite](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0801-is-graph-bipartite) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
@@ -466,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0207-course-schedule](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0210-course-schedule-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0820-find-eventual-safe-states](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0820-find-eventual-safe-states) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Heap (Priority Queue)
@@ -641,6 +648,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0140-word-break-ii) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
