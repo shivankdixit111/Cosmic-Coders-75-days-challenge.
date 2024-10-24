@@ -29,11 +29,10 @@ class Solution {
 public:
     int splitArray(vector<int>& nums, int k) {
         int n = nums.size();
-        int low = 0, high = SUM(nums) , ans=-1;
+        int low = MAX(nums), high = SUM(nums) , ans=-1;
         auto check = [&](int mid) {
              int cnt=1,sum=0;
-             for(int i=0;i<n;i++) {
-                 if( nums[i] > mid ) return false;  //not possible
+             for(int i=0;i<n;i++) { 
                  if(sum + nums[i] <= mid) {
                     sum += nums[i];
                  } else {
