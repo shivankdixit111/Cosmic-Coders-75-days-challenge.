@@ -120,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0403-frog-jump) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
@@ -179,6 +180,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
+| [0403-frog-jump](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0403-frog-jump) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
