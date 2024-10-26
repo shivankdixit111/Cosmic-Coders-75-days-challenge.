@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
@@ -273,6 +274,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0214-shortest-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0214-shortest-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0242-valid-anagram) |
+| [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
