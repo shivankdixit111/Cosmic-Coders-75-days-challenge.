@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
+| [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
@@ -190,6 +191,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
@@ -275,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0242-valid-anagram) |
 | [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
+| [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
@@ -434,6 +437,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0543-diameter-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0662-maximum-width-of-binary-tree) |
@@ -546,6 +550,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0139-word-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Tree
 |  |
