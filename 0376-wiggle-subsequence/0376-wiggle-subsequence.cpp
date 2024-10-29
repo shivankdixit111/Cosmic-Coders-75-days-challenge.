@@ -42,8 +42,16 @@ public:
     }
     int wiggleMaxLength(vector<int>& nums) {
         int n = nums.size();
-        dp.resize(n+1,vector<int>(2,-1));
-        int ans =  max(rec(0,true,nums),rec(0,false,nums))+1; 
-        return ans;
+        // dp.resize(n+1,vector<int>(2,-1));
+        // int ans =  max(rec(0,true,nums),rec(0,false,nums))+1; 
+        // return ans;
+
+        //maximum length will be peak and valley points
+        int peak = 1, valley = 1;
+        for(int i=1;i<n;i++) {
+           if(nums[i-1] < nums[i]) peak = valley+1;
+           if(nums[i-1] > nums[i]) valley = peak+1;
+        }
+        return max(peak,valley);
     }
 };
