@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
@@ -184,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
+| [0313-super-ugly-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0313-super-ugly-number) |
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
@@ -332,6 +334,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0241-different-ways-to-add-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0241-different-ways-to-add-parentheses) |
 | [0264-ugly-number-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0279-perfect-squares) |
+| [0313-super-ugly-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0313-super-ugly-number) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
