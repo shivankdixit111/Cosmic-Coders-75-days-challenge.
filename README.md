@@ -189,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0322-coin-change) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0337-house-robber-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0337-house-robber-iii) |
+| [0343-integer-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0343-integer-break) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [0403-frog-jump](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0403-frog-jump) |
@@ -336,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0264-ugly-number-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0264-ugly-number-ii) |
 | [0279-perfect-squares](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0279-perfect-squares) |
 | [0313-super-ugly-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
