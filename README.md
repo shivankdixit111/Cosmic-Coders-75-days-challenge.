@@ -129,6 +129,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0413-arithmetic-slices) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0435-non-overlapping-intervals](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
@@ -203,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0403-frog-jump](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0413-arithmetic-slices](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
@@ -316,6 +318,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0376-wiggle-subsequence) |
 | [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
+| [0435-non-overlapping-intervals](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0435-non-overlapping-intervals) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
@@ -365,6 +368,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0242-valid-anagram) |
 | [0354-russian-doll-envelopes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0354-russian-doll-envelopes) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
+| [0435-non-overlapping-intervals](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0435-non-overlapping-intervals) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
