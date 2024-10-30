@@ -198,6 +198,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0376-wiggle-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0376-wiggle-subsequence) |
 | [0377-combination-sum-iv](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0377-combination-sum-iv) |
 | [0396-rotate-function](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0396-rotate-function) |
+| [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0403-frog-jump](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0403-frog-jump) |
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
@@ -311,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0179-largest-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0179-largest-number) |
 | [0376-wiggle-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0376-wiggle-subsequence) |
+| [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -557,6 +559,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0222-count-complete-tree-nodes) |
+| [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -697,6 +700,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0140-word-break-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0241-different-ways-to-add-parentheses) |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
+| [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
