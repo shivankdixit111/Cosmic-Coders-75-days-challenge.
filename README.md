@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0467-unique-substrings-in-wraparound-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
+| [0474-ones-and-zeroes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0474-ones-and-zeroes) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
@@ -313,6 +315,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
+| [0474-ones-and-zeroes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0474-ones-and-zeroes) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
