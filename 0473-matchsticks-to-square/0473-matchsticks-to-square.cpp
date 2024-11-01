@@ -71,14 +71,9 @@ public:
     bool makesquare(vector<int>& matchsticks) {
         sum = SUM(matchsticks);
          if(sum%4) return false;
-         rall(matchsticks);
-        //  dp.resize(100,-1);
+         rall(matchsticks); 
         a1=sum/4,a2=sum/4,a3=sum/4,a4=sum/4;
-         int ans = rec(0,matchsticks); 
-        //  rep(i,0,20) {
-        //     cout<<dp[i]<<" ";
-        //  }
-        //  cout<<endl;
+         int ans = rec(0,matchsticks);  
          return ans;
     }
 };
