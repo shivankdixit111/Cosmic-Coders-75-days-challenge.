@@ -44,11 +44,20 @@ public:
     }
     int findLength(vector<int>& nums1, vector<int>& nums2) {
         int n = nums1.size(),m=nums2.size();
-        dp.resize(n+1,vi(m+1,-1));
-        int a=  rec(0,0,nums1,nums2);
+        dp.resize(n+1,vi(m+1,0));
+        // int a=  rec(0,0,nums1,nums2);
         int maxi = INT_MIN;
-        rep(i,0,n) {
-            rep(j,0,m) {
+        rep(i,1,n+1) {
+            rep(j,1,m+1) {
+                if(nums1[i-1]==nums2[j-1]) {
+                    dp[i][j] = max(dp[i][j], 1 + dp[i-1][j-1]);
+                } else {
+                    dp[i][j] = 0;
+                }
+            }
+        }
+        rep(i,0,n+1) {
+            rep(j,0,m+1) {
                maxi = max(maxi,dp[i][j]);
             }
             // cout<<endl;
