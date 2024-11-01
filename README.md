@@ -132,6 +132,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0435-non-overlapping-intervals) |
 | [0446-arithmetic-slices-ii-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0446-arithmetic-slices-ii-subsequence) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
@@ -215,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0466-count-the-repetitions](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0466-count-the-repetitions) |
 | [0467-unique-substrings-in-wraparound-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0467-unique-substrings-in-wraparound-string) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
+| [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
@@ -284,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0095-unique-binary-search-trees-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0095-unique-binary-search-trees-ii) |
 | [0131-palindrome-partitioning](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0140-word-break-ii) |
+| [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 ## String
@@ -590,6 +593,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0222-count-complete-tree-nodes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0222-count-complete-tree-nodes) |
 | [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
+| [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
@@ -745,6 +749,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 |  |
 | ------- |
+| [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
