@@ -140,6 +140,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0646-maximum-length-of-pair-chain) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0646-maximum-length-of-pair-chain) |
 | [0647-palindromic-substrings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0647-palindromic-substrings) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
 |  |
 | ------- |
@@ -601,6 +604,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -743,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 ## Combinatorics
 |  |
@@ -757,6 +762,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
+| [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Game Theory
