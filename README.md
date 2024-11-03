@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
@@ -232,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
@@ -324,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0647-palindromic-substrings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0647-palindromic-substrings) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [0812-rotate-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1078-remove-outermost-parentheses) |
@@ -367,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3571-length-of-the-longest-increasing-path) |
@@ -399,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0435-non-overlapping-intervals) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0646-maximum-length-of-pair-chain) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3571-length-of-the-longest-increasing-path) |
@@ -419,6 +424,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0721-accounts-merge](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0721-accounts-merge) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -616,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0140-word-break-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0140-word-break-ii) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0472-concatenated-words](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0472-concatenated-words) |
+| [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 ## Tree
 |  |
