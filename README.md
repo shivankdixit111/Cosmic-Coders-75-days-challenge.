@@ -152,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1020-longest-turbulent-subarray) |
 | [1036-rotting-oranges](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0962-flip-string-to-monotone-increasing) |
+| [1020-longest-turbulent-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1020-longest-turbulent-subarray) |
 | [1121-partition-array-for-maximum-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1170-shortest-common-supersequence) |
@@ -796,6 +798,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0413-arithmetic-slices](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0413-arithmetic-slices) |
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0718-maximum-length-of-repeated-subarray) |
+| [1020-longest-turbulent-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1020-longest-turbulent-subarray) |
 ## Queue
 |  |
 | ------- |
