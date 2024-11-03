@@ -51,14 +51,14 @@ public:
             }
          }
        
-         for(int s = 1;s<=30005;s++) { 
-            for(auto it:mp[s]) {
-                if(it==n) continue;
-                 double a1 = (double)(s)/(double)it;
-                 double a2 = (double)(sum-s)/(double)(n-it);
-                 if(a1==a2) return true;
-            }
-         }
+        //  for(int s = 1;s<=30005;s++) { 
+        //     for(auto it:mp[s]) {
+        //         if(it==n) continue;
+        //          double a1 = (double)(s)/(double)it;
+        //          double a2 = (double)(sum-s)/(double)(n-it);
+        //          if(a1==a2) return true;
+        //     }
+        //  }
          return 0;
     }
 };
