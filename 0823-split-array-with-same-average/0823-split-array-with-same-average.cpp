@@ -50,15 +50,8 @@ public:
                 }
             }
          }
-        //  rep(i,0,sum+1) {
-        //      if(dp[i]) {
-        //         cout<<i<<": ";
-        //         for(auto it:mp[i]) cout<<it<<" ";
-        //         cout<<endl;
-        //      }
-        //  }
-        //  cout<<endl;
-         for(int s = 1;s<=30005;s++) {
+       
+         for(int s = 1;s<=30005;s++) { 
             for(auto it:mp[s]) {
                 if(it==n) continue;
                  double a1 = (double)(s)/(double)it;
