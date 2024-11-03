@@ -32,33 +32,23 @@ public:
     bool splitArraySameAverage(vector<int>& nums) {
         int sum = SUM(nums),n=nums.size();
          vector<int> dp(sum+1,0);
-         vector<unordered_set<int>> mp(300005);
-         dp[0]=1;
-         mp[0].insert(0);
+         dp[0] = 1;
          for(auto it:nums) {
-            for(int j = sum;j>=it;j--) {
+            for(int j=sum;j>=it;j--) {
                 if(dp[j-it]) {
-                    dp[j] = 1;
-                    for(auto len:mp[j-it]) {
-                        mp[j].insert(len+1);
-                         double a1 = (double)(j)/(double)(len+1);
-                         double a2 = (double)(sum-j)/(double)(n-(len+1));
-                         if(a1==a2) { 
-                            return true;
-                         }
-                    }
+                    dp[j] |= (dp[j-it] << 1);
                 }
             }
          }
-       
-        //  for(int s = 1;s<=30005;s++) { 
-        //     for(auto it:mp[s]) {
-        //         if(it==n) continue;
-        //          double a1 = (double)(s)/(double)it;
-        //          double a2 = (double)(sum-s)/(double)(n-it);
-        //          if(a1==a2) return true;
-        //     }
-        //  }
+         
+
+         rep(len,1,n) {
+            if((sum*len)%n==0) {
+               int s = sum*len/n;
+               if(dp[s] and (dp[s] & (1<<len))) return true;
+            }
+         }
+          
          return 0;
     }
 };
