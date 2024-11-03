@@ -147,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0733-flood-fill](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0733-flood-fill) |
 | [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
+| [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
@@ -234,6 +235,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0718-maximum-length-of-repeated-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0718-maximum-length-of-repeated-subarray) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
+| [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
@@ -386,6 +388,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0343-integer-break](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0343-integer-break) |
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0396-rotate-function) |
+| [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -611,6 +614,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -770,6 +774,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
+| [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 ## Game Theory
