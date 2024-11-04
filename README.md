@@ -150,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0794-swim-in-rising-water](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0794-swim-in-rising-water) |
 | [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
+| [0831-largest-sum-of-averages](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0831-largest-sum-of-averages) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0803-cheapest-flights-within-k-stops](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0803-cheapest-flights-within-k-stops) |
 | [0808-number-of-matching-subsequences](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0808-number-of-matching-subsequences) |
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
+| [0831-largest-sum-of-averages](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0831-largest-sum-of-averages) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
@@ -554,6 +556,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0410-split-array-largest-sum) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
+| [0831-largest-sum-of-averages](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0831-largest-sum-of-averages) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
