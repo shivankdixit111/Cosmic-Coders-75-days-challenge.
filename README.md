@@ -137,6 +137,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
 | [0525-contiguous-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0525-contiguous-array) |
+| [0526-beautiful-arrangement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0646-maximum-length-of-pair-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0646-maximum-length-of-pair-chain) |
@@ -227,6 +228,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0518-coin-change-ii) |
+| [0526-beautiful-arrangement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0526-beautiful-arrangement) |
 | [0542-01-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0542-01-matrix) |
 | [0583-delete-operation-for-two-strings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0583-delete-operation-for-two-strings) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
@@ -302,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0357-count-numbers-with-unique-digits](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0357-count-numbers-with-unique-digits) |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
 | [0494-target-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0494-target-sum) |
+| [0526-beautiful-arrangement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 ## String
@@ -619,6 +622,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0397-integer-replacement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0397-integer-replacement) |
 | [0421-maximum-xor-of-two-numbers-in-an-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0421-maximum-xor-of-two-numbers-in-an-array) |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
@@ -779,6 +783,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0473-matchsticks-to-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0473-matchsticks-to-square) |
+| [0526-beautiful-arrangement](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0526-beautiful-arrangement) |
 | [0638-shopping-offers](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0638-shopping-offers) |
 | [0698-partition-to-k-equal-sum-subsets](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0698-partition-to-k-equal-sum-subsets) |
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
