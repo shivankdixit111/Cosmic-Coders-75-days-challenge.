@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
@@ -261,6 +262,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -407,6 +409,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0396-rotate-function](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0396-rotate-function) |
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
+| [2867-ways-to-split-array-into-good-subarrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
