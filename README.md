@@ -114,6 +114,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0174-dungeon-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0221-maximal-square) |
+| [0283-move-zeroes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0312-burst-balloons](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0312-burst-balloons) |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0283-move-zeroes) |
 | [0647-palindromic-substrings](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0908-middle-of-the-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0908-middle-of-the-linked-list) |
