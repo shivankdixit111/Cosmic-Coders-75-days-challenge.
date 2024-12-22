@@ -51,10 +51,11 @@ public:
                 if(cnt!=mid)
                   ans = min(ans, self(i+1, 0, mid, dp, self));
                   
-                  //create a substring
+                  //create a substring at random points
                   if(!take) {
                     char ch = s[i];
                     s[i] = (s[i]=='0'?'1':'0');
+                    //special case when len is 1 cann't do op making prev and curr as a more length substring
                     if(mid!=1 or (i==0 or (s[i] != s[i-1]))) 
                      ans = min(ans, 1 + self(i, 1,  mid, dp, self));
                     s[i] = ch; 
