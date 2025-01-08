@@ -100,6 +100,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0045-jump-game-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0055-jump-game) |
@@ -462,6 +463,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0234-palindrome-linked-list) |
