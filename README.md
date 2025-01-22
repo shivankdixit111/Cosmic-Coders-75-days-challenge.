@@ -167,6 +167,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1171-shortest-path-in-binary-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1224-minimum-falling-path-sum-ii) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1583-paint-house-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 | [1826-maximum-xor-with-an-element-from-array](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1826-maximum-xor-with-an-element-from-array) |
@@ -264,6 +265,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1583-paint-house-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
