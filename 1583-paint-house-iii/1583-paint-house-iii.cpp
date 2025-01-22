@@ -27,15 +27,15 @@
 class Solution {
 public:
     int minCost(vector<int>& houses, vector<vector<int>>& cost, int m, int n, int target) {
-        vector<vector<vvii>> dp(101,vector<vvii>(22,vvii(target+2,vi(2,-1))));
+        vector<vvii> dp(101,vvii(22,vi(target+2,-1)));
         auto rec = [&](int i, int prevColor, int neighbours, int canColor, auto &&self)->int{ 
              if(neighbours > target) return 1e9;
              if(i==m) {
                 if(neighbours == target) return 0;
                 return 1e9;
              }
-            if(dp[i][prevColor+1][neighbours][canColor] != -1) { 
-                return dp[i][prevColor+1][neighbours][canColor];
+            if(dp[i][prevColor+1][neighbours] != -1) { 
+                return dp[i][prevColor+1][neighbours];
             }
              int ans = 1e9; 
              if(houses[i]>0) { 
@@ -49,7 +49,7 @@ public:
                     }
                 }
              }
-             return dp[i][prevColor+1][neighbours][canColor] = ans;
+             return dp[i][prevColor+1][neighbours] = ans;
         };
         int ans = rec(0,-1,0,0,rec);
         if(ans >=1e9) return -1;
