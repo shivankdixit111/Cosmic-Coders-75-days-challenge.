@@ -257,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
 | [0962-flip-string-to-monotone-increasing](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0962-flip-string-to-monotone-increasing) |
 | [1020-longest-turbulent-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1020-longest-turbulent-subarray) |
+| [1057-numbers-with-repeated-digits](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1057-numbers-with-repeated-digits) |
 | [1121-partition-array-for-maximum-sum](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1121-partition-array-for-maximum-sum) |
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1170-shortest-common-supersequence) |
@@ -415,6 +416,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0368-largest-divisible-subset](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0368-largest-divisible-subset) |
 | [0396-rotate-function](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0396-rotate-function) |
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
+| [1057-numbers-with-repeated-digits](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1057-numbers-with-repeated-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
