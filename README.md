@@ -183,6 +183,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3560-maximum-number-of-moves-to-kill-all-pawns](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3560-maximum-number-of-moves-to-kill-all-pawns) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3571-length-of-the-longest-increasing-path) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
+| [3762-maximize-the-minimum-game-score](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3762-maximize-the-minimum-game-score) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -381,6 +382,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
+| [3762-maximize-the-minimum-game-score](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3762-maximize-the-minimum-game-score) |
 ## Recursion
 |  |
 | ------- |
@@ -404,6 +406,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 | [3571-length-of-the-longest-increasing-path](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3571-length-of-the-longest-increasing-path) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
+| [3762-maximize-the-minimum-game-score](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3762-maximize-the-minimum-game-score) |
 ## Math
 |  |
 | ------- |
