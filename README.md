@@ -156,6 +156,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [0831-largest-sum-of-averages](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0831-largest-sum-of-averages) |
 | [0854-making-a-large-island](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0854-making-a-large-island) |
+| [0880-rectangle-area-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0880-rectangle-area-ii) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0943-sum-of-subarray-minimums) |
 | [0954-maximum-sum-circular-subarray](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0954-maximum-sum-circular-subarray) |
@@ -787,6 +788,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0699-falling-squares](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0699-falling-squares) |
+| [0880-rectangle-area-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0880-rectangle-area-ii) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
 | [3435-block-placement-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3435-block-placement-queries) |
 ## Binary Indexed Tree
@@ -852,4 +854,9 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [0699-falling-squares](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0699-falling-squares) |
+| [0880-rectangle-area-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0880-rectangle-area-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [0880-rectangle-area-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0880-rectangle-area-ii) |
 <!---LeetCode Topics End-->
