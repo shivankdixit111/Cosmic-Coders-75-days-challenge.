@@ -267,6 +267,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1224-minimum-falling-path-sum-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1224-minimum-falling-path-sum-ii) |
 | [1250-longest-common-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
+| [1403-palindrome-partitioning-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1583-paint-house-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1583-paint-house-iii) |
@@ -364,6 +365,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1170-shortest-common-supersequence) |
 | [1250-longest-common-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1250-longest-common-subsequence) |
+| [1403-palindrome-partitioning-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1403-palindrome-partitioning-iii) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1508-longest-happy-prefix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1508-longest-happy-prefix) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
