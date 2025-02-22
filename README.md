@@ -168,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1224-minimum-falling-path-sum-ii) |
+| [1234-number-of-paths-with-max-score](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1234-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1583-paint-house-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1583-paint-house-iii) |
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1129-longest-string-chain](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1129-longest-string-chain) |
 | [1170-shortest-common-supersequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1170-shortest-common-supersequence) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1224-minimum-falling-path-sum-ii) |
+| [1234-number-of-paths-with-max-score](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1234-number-of-paths-with-max-score) |
 | [1250-longest-common-subsequence](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1250-longest-common-subsequence) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1403-palindrome-partitioning-iii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1403-palindrome-partitioning-iii) |
@@ -516,6 +518,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1073-number-of-enclaves](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1171-shortest-path-in-binary-matrix) |
 | [1224-minimum-falling-path-sum-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1224-minimum-falling-path-sum-ii) |
+| [1234-number-of-paths-with-max-score](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1234-number-of-paths-with-max-score) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1753-path-with-minimum-effort) |
 ## Monotonic Stack
