@@ -277,6 +277,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1669-minimum-cost-to-cut-a-stick](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2081-minimum-total-space-wasted-with-k-resizing-operations](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2081-minimum-total-space-wasted-with-k-resizing-operations) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3423-maximum-sum-of-subsequence-with-non-adjacent-elements](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3423-maximum-sum-of-subsequence-with-non-adjacent-elements) |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0823-split-array-with-same-average](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/0823-split-array-with-same-average) |
 | [1057-numbers-with-repeated-digits](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/1057-numbers-with-repeated-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2032-largest-odd-number-in-string) |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2867-ways-to-split-array-into-good-subarrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2867-ways-to-split-array-into-good-subarrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
@@ -817,6 +819,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Combinatorics
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3414-find-number-of-ways-to-reach-the-k-th-stair](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3414-find-number-of-ways-to-reach-the-k-th-stair) |
 | [3535-find-the-count-of-monotonic-pairs-i](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3535-find-the-count-of-monotonic-pairs-i) |
 | [3536-find-the-count-of-monotonic-pairs-ii](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3536-find-the-count-of-monotonic-pairs-ii) |
@@ -843,6 +846,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Number Theory
 |  |
 | ------- |
+| [2415-count-the-number-of-ideal-arrays](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3583-sorted-gcd-pair-queries](https://github.com/shivankdixit111/Cosmic-Coders-75-days-challenge./tree/master/3583-sorted-gcd-pair-queries) |
 ## Sliding Window
 |  |
